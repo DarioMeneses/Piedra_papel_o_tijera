@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(to right, #00aaff, #555555);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 800px;
+    height: auto;
+    margin: 10px;
+}
